@@ -6,4 +6,4 @@ Input requirements: An SDF file in which the first column contains molecule name
 The user can specify the input and output file names and a threshold value at the top of the Docking_Profiler.py script.
 The parameters that are to be plotted are specified at the end of the Docking_Profiler.py script.
 
-Output: The program generates a PDF file (Plot_Docking_Profile.pdf) containing all plots. Furthermore the corresponding tables are written out (scorelist.tsv, scorelist_sorted.tsv, scoreist_sorted_topX.tsv and averages.tsv).
+Output: The program generates a PDF file (Plot_Docking_Profile.pdf) containing all plots. Furthermore the corresponding tables are written out (scorelist.tsv, scorelist_sorted.tsv, scorelist_sorted_topX.tsv and averages.tsv).
